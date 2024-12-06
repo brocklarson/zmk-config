@@ -1,5 +1,5 @@
-config SHIELD_SASUGA_LEFT
+config SHIELD_sasuga_LEFT
     def_bool $(shields_list_contains,sasuga_left)
 
-config SHIELD_SASUGA_RIGHT
+config SHIELD_sasuga_RIGHT
     def_bool $(shields_list_contains,sasuga_right)
