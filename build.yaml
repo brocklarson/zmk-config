@@ -23,3 +23,5 @@ include:
     shield: sasuga_left
   - board: nice_nano_v2
     shield: sasuga_right
+  - board: nice_nano_v2
+    shield: settings_reset
